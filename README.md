@@ -4,7 +4,7 @@
 # Xylophone 🎹
 
 this project work on both android and ios and the user interface is show as in figure.
-there are  7 different color each corresponds to a different sound.
+there are  7 different color each corresponds to a different sound...
 
 
 
